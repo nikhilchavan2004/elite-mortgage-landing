@@ -399,7 +399,7 @@ const LuxuryMortgageLanding = () => {
               <h4 className="font-bold mb-4">Contact</h4>
               <div className="space-y-2">
                 <a
-                  href="tel:+1234567890"
+                  href="mob.no: 9835057375"
                   className="flex items-center text-gray-400 hover:text-white transition-colors"
                 >
                   <Phone className="w-4 h-4 mr-2" /> (123) 456-7890
@@ -408,7 +408,7 @@ const LuxuryMortgageLanding = () => {
                   href="mailto:info@NIKHIL'smortgage.com"
                   className="flex items-center text-gray-400 hover:text-white transition-colors"
                 >
-                  <Mail className="w-4 h-4 mr-2" /> info@elitemortgage.com
+                  <Mail className="w-4 h-4 mr-2" /> info@NIKHIL'smortgage.com
                 </a>
               </div>
             </div>
