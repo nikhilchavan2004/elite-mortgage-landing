@@ -405,10 +405,10 @@ const LuxuryMortgageLanding = () => {
                   <Phone className="w-4 h-4 mr-2" /> (123) 456-7890
                 </a>
                 <a
-                  href="mailto:info@NIKHIL'smortgage.com"
+                  href="mailto:@NIKHIL'smortgage.com"
                   className="flex items-center text-gray-400 hover:text-white transition-colors"
                 >
-                  <Mail className="w-4 h-4 mr-2" /> info@NIKHIL'smortgage.com
+                  <Mail className="w-4 h-4 mr-2" /> @NIKHIL'smortgage.com
                 </a>
               </div>
             </div>
