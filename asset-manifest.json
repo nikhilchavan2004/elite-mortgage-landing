@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/elite-mortgage-landing/static/css/main.c81aeb2c.css",
+    "main.js": "/elite-mortgage-landing/static/js/main.44253dfe.js",
+    "static/media/i3.jpg": "/elite-mortgage-landing/static/media/i3.b940d489287b17cb1572.jpg",
+    "static/media/i9.jpg": "/elite-mortgage-landing/static/media/i9.f10be496c551ab411e77.jpg",
+    "static/media/i2.jpg": "/elite-mortgage-landing/static/media/i2.e302d10fe197303c8e0f.jpg",
+    "static/media/i5.jpg": "/elite-mortgage-landing/static/media/i5.ae766c7f8c708464e6f2.jpg",
+    "static/media/i8.jpg": "/elite-mortgage-landing/static/media/i8.5e1ad5e7085e1eaab214.jpg",
+    "static/media/i6.jpg": "/elite-mortgage-landing/static/media/i6.1fab2293964e0c793dec.jpg",
+    "static/media/i7.jpg": "/elite-mortgage-landing/static/media/i7.3ef76aa2a5e71dc4b3ee.jpg",
+    "static/media/nl.webp": "/elite-mortgage-landing/static/media/nl.f8a02b67be6a7d28894c.webp",
+    "static/media/cu.png": "/elite-mortgage-landing/static/media/cu.ebeb73625ad4382a0d18.png",
+    "static/media/f.webp": "/elite-mortgage-landing/static/media/f.5d9fb00e34526f7063da.webp",
+    "index.html": "/elite-mortgage-landing/index.html",
+    "main.c81aeb2c.css.map": "/elite-mortgage-landing/static/css/main.c81aeb2c.css.map",
+    "main.44253dfe.js.map": "/elite-mortgage-landing/static/js/main.44253dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c81aeb2c.css",
+    "static/js/main.44253dfe.js"
+  ]
+}
